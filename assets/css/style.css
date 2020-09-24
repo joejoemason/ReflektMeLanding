@@ -63,6 +63,22 @@ align-items: center;
   padding-bottom: 40%;
 
 }
+#lipstickStunna1 {
+  width: 800px;
+  margin-left: -140px;
+  margin-top: -20px;
+  height: 700px;
+  background-image: url(/assets/images/lipstickIdea4.png);
+  background-size: cover;
+  background-position: center;
+}
+
+#lipstickStunna {
+  width: 500px;
+  height: 440px;
+  margin-top: -70%;
+  margin-left: 230px;
+  }
 
 #Description {
 color: rgb(240, 239, 239);
@@ -100,35 +116,35 @@ max-width: 650px;
 #Description2 {
   color: rgb(109, 107, 107);
   padding-top: 11%;
-  padding-left: 12px;
+  padding-left: 55px;
   font-size: medium;
   }
 
   #price {
   color: rgb(109, 107, 107);
     padding-top: 4%;
-    padding-left: 12px;
+    padding-left: 55px;
     font-size: medium;
   }
 
   #Quantity {
   color: rgb(109, 107, 107);
     padding-top: 4%;
-    padding-left: 12px;
+    padding-left: 55px;
     font-size: medium;
   }
 
   #Input {
     width: 90px;
     padding-top: 4%;
-    margin-left: 12px;
+    margin-left: 55px;
     height: 45px;
   }
 
   #addtoCart {
     color: rgb(255, 254, 254);
     padding-top: 8%;
-    padding-left: 90px;
+    padding-left: 110px;
     font-size: small;
     width: 150%;
     height: 15%;
@@ -139,13 +155,10 @@ max-width: 650px;
     padding-bottom: 35%;
   }
 
-#lipstickStunna {
-width: 580px;
-height: 440px;
-}
+
 
 .fa-phone-square-alt {
-  padding-left: 65px;
+  padding-left: 85px;
   padding-right: 8px;
   padding-top: 20px;
   color: green;
