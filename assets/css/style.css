@@ -3,7 +3,6 @@
 #aboveNav {
   padding-bottom: 10px;
   width: auto;
-/* align-items: center; */
 margin-right: 590%;
 height: 45px;
 opacity: 80%;
@@ -18,20 +17,13 @@ opacity: 80%;
     width: 100%;
     height: 60px;
     align-items: center;
-    /* max-width: 960px; */
     margin: 0 auto;
-    /* clear: both; */
     border-width: 100px;;
     border-bottom: 200px;
     border-bottom-color: rgb(83, 82, 82);
     color: rgb(255, 255, 255);
   }
   #NavbarMenu {
-  /* background-color: rgb(255, 255, 255); */
-  /* background-color: rgb(240, 239, 239); */
-
-    /* color: grey; */
-
     height: 55%;
   }
 
@@ -58,7 +50,6 @@ padding-bottom: 24px;
 
 #Jumbotron {
 color: rgba(238, 197, 63, 0.904);
-/* background: transparent; */
 font-weight: bold;
 font-size: x-large;
 background-color: rgb(51, 50, 50);
@@ -79,7 +70,6 @@ padding-top: 10%;
 }
 
 #picturesBelow {
-/* width: 20%; */
 padding-top: 20px;
 width: 35%;
 height: 20%;
@@ -99,10 +89,6 @@ max-width: 650px;
   height: 70%;
   padding-left: 150px;
   opacity: 80%;
-  /* border-right: 80px; */
-  /* max-width: 750px; */
-  /* width: 20%; */
-/* height: 6.5%; */
 
 
 }
@@ -135,7 +121,6 @@ max-width: 650px;
   #Input {
     width: 90px;
     padding-top: 4%;
-    /* padding-left: 60px; */
     margin-left: 12px;
     height: 45px;
   }
@@ -157,7 +142,6 @@ max-width: 650px;
 #lipstickStunna {
 width: 580px;
 height: 440px;
-/* margin-top: 3%; */
 }
 
 .fa-phone-square-alt {
@@ -193,17 +177,23 @@ height: 440px;
   opacity: 76%;
 height: 50px;
 background-color: rgb(212, 165, 45);
+align-items: center;
+
 
 }
 #footerLogo {
   padding-bottom: 10px;
   width: auto;
-/* align-items: center; */
-margin-right: 590%;
+align-items: center;
 }
 
 #bottomIcons {
   margin-bottom: 20px;
-
   color: rgb(253, 253, 252);
+  font-size: small;
+}
+
+#Copyright {
+
+  height: 150%;
 }
