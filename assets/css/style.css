@@ -40,19 +40,20 @@ padding-bottom: 24px;
 }
 
 #Body {
-  background-color: rgba(231, 231, 231, 0.596);
+  background-color: rgba(235, 231, 231, 0.808);
   /* background-image: url("//assets/images/White\ R\ Logo@2x.png"); */
-  background-size: 66%;
+  background-size: 55%;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
   background-image: rgb(19, 18, 18);
+
 }
 
 #Jumbotron {
 color: rgba(238, 197, 63, 0.904);
 font-weight: bold;
 font-size: x-large;
-background-color: rgb(51, 50, 50);
+background-color: rgb(54, 54, 54);
 opacity: 75%;
 height: 130px;
 align-items: center;
@@ -64,10 +65,11 @@ align-items: center;
 
 }
 #lipstickStunna1 {
+  opacity: 100%;
   width: 800px;
   margin-left: -140px;
-  margin-top: -20px;
-  height: 700px;
+  margin-top: -30px;
+  height: 650px;
   background-image: url(/assets/images/lipstickIdea4.png);
   background-size: cover;
   background-position: center;
@@ -76,7 +78,7 @@ align-items: center;
 #lipstickStunna {
   width: 500px;
   height: 440px;
-  margin-top: -70%;
+  margin-top: -83%;
   margin-left: 230px;
   }
 
@@ -152,7 +154,7 @@ max-width: 650px;
   }
 
   #firstRow {
-    padding-bottom: 35%;
+    padding-bottom: 19%;
   }
 
 
