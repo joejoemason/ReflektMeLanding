@@ -8,6 +8,10 @@ height: 45px;
 opacity: 80%;
 
 }
+#rightColumn {
+margin-left: -20px;
+
+}
 
 
 #Navbar {
@@ -42,10 +46,11 @@ padding-bottom: 24px;
 #Body {
   background-color: rgba(235, 231, 231, 0.808);
   /* background-image: url("//assets/images/White\ R\ Logo@2x.png"); */
-  background-size: 55%;
+  background-size: 49%;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
   background-image: rgb(19, 18, 18);
+  background-position: right;
 
 }
 
@@ -94,6 +99,7 @@ height: 20%;
 padding-left: 140px;
 border-right: 70px;
 max-width: 650px;
+margin-left: 270px;
 }
 
 #secondRow {
@@ -102,11 +108,13 @@ max-width: 650px;
 }
 
 #toolButton {
-  padding-top: 20px;
-  width: 40%;
-  height: 70%;
+  padding-top: 15px;
+  width: 35%;
+  height: 80%;
   padding-left: 150px;
   opacity: 80%;
+  margin-left: 683px;
+  margin-top: -65px;
 
 
 }
@@ -154,7 +162,7 @@ max-width: 650px;
   }
 
   #firstRow {
-    padding-bottom: 19%;
+    padding-bottom: 11%;
   }
 
 
@@ -189,6 +197,7 @@ max-width: 650px;
 
 
 #bottomNav {
+  margin-top:-10%;
   opacity: 76%;
 height: 50px;
 background-color: rgb(212, 165, 45);
